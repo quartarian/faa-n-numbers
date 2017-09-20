@@ -1,0 +1,13 @@
+{
+    "name": "matt/airport",
+    "description": "N number to spreadsheet",
+    "authors": [
+        {
+            "name": "Matthew Bender",
+            "email": "quartarian@gmail.com"
+        }
+    ],
+    "require": {
+        "tburry/pquery": "^1.1"
+    }
+}
